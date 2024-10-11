@@ -1,0 +1,2 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+active file	fichero activo	DNU in ES_LATAM

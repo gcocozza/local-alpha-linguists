@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="memsource_tool" creationtoolversion="2.0" segtype="sentence" o-tmf="memsourceTM" adminlang="en" srclang="en" datatype="unknown" creationdate="20200716T183202Z">
+    <prop type="name">SDL Trados Website Content.sdltm</prop>
+  </header>
+  <body>
+    <tu tuid="QyAP32dpMNr29d4IaE0s59XT1">
+      <tuv xml:lang="en">
+        <seg>This topic describes how to create a local translation memory in the <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Translation Memories <ept i="1000001">&lt;b}</ept>view.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>En este tema se describe cómo crear una memoria de traducción local en la vista <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Memorias de traducción<ept i="1000001">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4QR0k2RE0cC9YagMQh1c3I1G2">
+      <tuv xml:lang="en">
+        <seg><ph x="1"/><ph x="2"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Before you begin<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg><ph x="1"/><ph x="2"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Antes de empezar<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="RG9SRaQlwGw2jc4UlmwS0baR1">
+      <tuv xml:lang="en">
+        <seg>You can optionally create a language resource template to select when you create the translation memory.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Opcionalmente, puede crear una plantilla de recursos de idioma para seleccionarla al crear la memoria de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="LmD0dg8I1oW9QMiwWy0cPMPc5">
+      <tuv xml:lang="en">
+        <seg><ph x="1"/><ph x="2"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>About this task<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg><ph x="1"/><ph x="2"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Sobre esta tarea<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="9iudqNDiwu72nq4sfyMSwHwC">
+      <tuv xml:lang="en">
+        <seg>To create a local translation memory:</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Para crear una memoria de traducción local:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="0YKnYk1C302hUmDwCj3E9XZA6">
+      <tuv xml:lang="en">
+        <seg><ph x="1"/><ph x="2"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Procedure<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg><ph x="1"/><ph x="2"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Procedimiento<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="komByf211YI9Yeh0uN4UdMIR0">
+      <tuv xml:lang="en">
+        <seg>In the <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Translation Memories <ept i="1000001">&lt;b}</ept>view, select <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>File<ept i="1000002">&lt;b}</ept> &gt; <bpt i="1000003" x="1000003" type="formatting">{b&gt;</bpt>New<ept i="1000003">&lt;b}</ept> &gt; <bpt i="1000004" x="1000004" type="formatting">{b&gt;</bpt>Translation Memory<ept i="1000004">&lt;b}</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>En la vista <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Memorias de traducción<ept i="1000001">&lt;b}</ept>, seleccione <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>Archivo<ept i="1000002">&lt;b}</ept> &gt; <bpt i="1000003" x="1000003" type="formatting">{b&gt;</bpt>Nuevo<ept i="1000003">&lt;b}</ept> &gt; <bpt i="1000004" x="1000004" type="formatting">{b&gt;</bpt>Nueva memoria de traducción<ept i="1000004">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Gns86sWMw662qz4UpR0EuF300">
+      <tuv xml:lang="en">
+        <seg>The <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>New Translation Memory Wizard <ept i="1000001">&lt;b}</ept>is displayed on the <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>General<ept i="1000002">&lt;b}</ept> page.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Se muestra el <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>asistente para Nueva memoria de traducción<ept i="1000001">&lt;b}</ept> en la página <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>General<ept i="1000002">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="BIFp1otwx7g40Wg0qp3SY1PM4">
+      <tuv xml:lang="en">
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Note:<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Nota:<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="h3QbbFzMMt22On4QSr0s8jzM0">
+      <tuv xml:lang="en">
+        <seg>If you want to base the new translation memory on an existing translation memory, select the copy-from translation memory in the navigation tree, right-click and select <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>New Translation Memory From<ept i="1000001">&lt;b}</ept> from the shortcut menu.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Si desea basar la nueva memoria de traducción en otra ya existente, seleccione esta última en el árbol de navegación, haga clic con el botón derecho y seleccione <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Nueva memoria de traducción desde<ept i="1000001">&lt;b}</ept> en el menú de acceso directo.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="yx2vzfUuMbH2FD4MEPw33NwP">
+      <tuv xml:lang="en">
+        <seg>Complete the <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>General<ept i="1000001">&lt;b}</ept> page:</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Complete la página <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>General<ept i="1000001">&lt;b}</ept>:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="JMtfptpp0cZ40Ch0Ms6CHMXv6">
+      <tuv xml:lang="en">
+        <seg>If you want to base the new translation memory on an existing translation memory, select the translation memory in the <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Create From<ept i="1000001">&lt;b}</ept> box.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Si desea basar la nueva memoria de traducción en otra ya existente, seleccione esta última en el cuadro <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Crear de<ept i="1000001">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="LuAWKnfjgb32g648BKM812t02">
+      <tuv xml:lang="en">
+        <seg>Specify the <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Name<ept i="1000001">&lt;b}</ept>, <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>Location<ept i="1000002">&lt;b}</ept> and language pair of the translation memory.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Especifique el <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Nombre<ept i="1000001">&lt;b}</ept>, la <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>Ubicación<ept i="1000002">&lt;b}</ept> y la combinación de idiomas de la memoria de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="hNfzVhHe0sX5KI8U0P2n7Io23">
+      <tuv xml:lang="en">
+        <seg>Click <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Next<ept i="1000001">&lt;b}</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Haga clic en <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Siguiente<ept i="1000001">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="n1sNF1tp3g1mESywYv0ITkPre">
+      <tuv xml:lang="en">
+        <seg>The <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Fields and Settings<ept i="1000001">&lt;b}</ept> page is displayed.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Se muestra la página <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Campos y configuración<ept i="1000001">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="tzfA9cargkh2a944Dc0Uz5T70">
+      <tuv xml:lang="en">
+        <seg>If you want to create custom fields for your translation units, type the name of the field in the <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Name<ept i="1000001">&lt;b}</ept> column and then complete the other columns for that row.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Si desea crear campos personalizados para sus unidades de traducción, escriba el nombre del campo en la columna <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Nombre<ept i="1000001">&lt;b}</ept> y, a continuación, complete las demás columnas de esa fila.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="ETouJv3Xw0C4AQ8EFR16bfrQ3">
+      <tuv xml:lang="en">
+        <seg>If you want to disable any of the recognition settings on this page, clear the selections next to each recognition check box.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Si desea desactivar alguna de las opciones de configuración de reconocimiento de esta página, desactive las opciones seleccionadas junto a cada casilla de verificación.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="0UtdGhHp08v9ghigt108LdjS0">
+      <tuv xml:lang="en">
+        <seg>The <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Language Resources <ept i="1000001">&lt;b}</ept>page is displayed.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Se muestra la página <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Recursos de idioma<ept i="1000001">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="1QHZgmLH0qn9MYi0ER3Uv3ER5">
+      <tuv xml:lang="en">
+        <seg>If you chose to base the new translation memory on an existing translation memory, the language resources that exist in the copy-from translation memory will be listed here.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Si elige basar la nueva memoria de traducción en una memoria de traducción existente, los recursos de idioma que existan en la memoria de traducción de la que se haya copiado aparecerán aquí.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="xt7SiceS0kz5qp8U7y1il38q0">
+      <tuv xml:lang="en">
+        <seg>On this page:</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>En esta página puede hacer lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="FqhA0hWgxtz5yS8gCHw8GmYh0">
+      <tuv xml:lang="en">
+        <seg>If you want to use the default language resource template, click <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Finish<ept i="1000001">&lt;b}</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Si desea utilizar la plantilla de recursos de idioma predeterminada, haga clic en <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Finalizar<ept i="1000001">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="AgkXFlsEMPZ21s9EwnxbI5231">
+      <tuv xml:lang="en">
+        <seg>If you want to edit the default language resource lists, select the list in the <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Resources<ept i="1000001">&lt;b}</ept> box and click <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>Edit<ept i="1000002">&lt;b}</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Si desea editar las listas de los recursos de idioma predeterminados, seleccione la lista en el cuadro <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Recursos<ept i="1000001">&lt;b}</ept> y haga clic en <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>Editar<ept i="1000002">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="QLgHHmIOgnh27l4UsqwKja5k">
+      <tuv xml:lang="en">
+        <seg>Edit existing entries in the list or add new entries as required.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Edite las entradas existentes en la lista o agregue nuevas entradas según sea necesario.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="mskwNbSQMGC2t54IKIwQZU2D">
+      <tuv xml:lang="en">
+        <seg>If you want to use an existing language resource template , click <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Browse<ept i="1000001">&lt;b}</ept> next to the <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>Template<ept i="1000002">&lt;b}</ept> box and select a template.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Si desea utilizar una plantilla de recursos de idioma ya existente, haga clic en <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Examinar<ept i="1000001">&lt;b}</ept> junto al cuadro <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>Plantilla<ept i="1000002">&lt;b}</ept> y selecciónela.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Wo4VAbr1xxJ4Um80KN1gnErI7">
+      <tuv xml:lang="en">
+        <seg>The language resources are copied to the translation memory.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Los recursos de idioma se copian en la memoria de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="aJfn0k6PwhV5gj80I146mm01s">
+      <tuv xml:lang="en">
+        <seg>Click <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Finish<ept i="1000001">&lt;b}</ept> to create the translation memory.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Haga clic en <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Finalizar<ept i="1000001">&lt;b}</ept> para crear la memoria de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="WHG32klJgZ62Mn4cVGMtouwk">
+      <tuv xml:lang="en">
+        <seg>The <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Creating<ept i="1000001">&lt;b}</ept> page is displayed.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Se muestra la página <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Creando<ept i="1000001">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="lyO613cN1qsb8Qgg2g3TGsBe2">
+      <tuv xml:lang="en">
+        <seg>When the status of the items on <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Creating<ept i="1000001">&lt;b}</ept> page changes to <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>Completed<ept i="1000002">&lt;b}</ept>, click <bpt i="1000003" x="1000003" type="formatting">{b&gt;</bpt>Close<ept i="1000003">&lt;b}</ept> to save the newly created translation memory.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Cuando el estado de los elementos en la página <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Creando<ept i="1000001">&lt;b}</ept> cambia a <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>Finalizado<ept i="1000002">&lt;b}</ept>, haga clic en <bpt i="1000003" x="1000003" type="formatting">{b&gt;</bpt>Cerrar<ept i="1000003">&lt;b}</ept> para guardar la memoria de traducción nueva.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="c6ZZSSU1wCu48E9gDm0Y7MR17">
+      <tuv xml:lang="en">
+        <seg>The <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Close<ept i="1000001">&lt;b}</ept> button is not active until the translation memory is created.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>El botón <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Cerrar<ept i="1000001">&lt;b}</ept> no está activo hasta que esté creada la memoria de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="05nOGtafxiw4MZ98r4xpDN6a0">
+      <tuv xml:lang="en">
+        <seg><ph x="1"/><ph x="2"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Results<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg><ph x="1"/><ph x="2"/><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Resultados<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="gKOwbOx60Cg4UO9wjlwtY8Bc0">
+      <tuv xml:lang="en">
+        <seg>The translation memory is saved with a *.sdltm extension.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>La memoria de traducción se guarda con la extensión *.sdltm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="s52XL3ZgwoJ2Zc4YtLMvoK0m0">
+      <tuv xml:lang="en">
+        <seg>The translation memory is added to the navigation pane in the <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Translation Memories <ept i="1000001">&lt;b}</ept>folder.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>La memoria de traducción se agrega al panel de navegación de la carpeta <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Memorias de traducción<ept i="1000001">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4IjJsXS1whP5qN9oNmw80jEM3">
+      <tuv xml:lang="en">
+        <seg>You can edit translation memory settings in the <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Translation Memory Settings<ept i="1000001">&lt;b}</ept> dialog box.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Puede editar la configuración de la memoria de traducción en el cuadro de diálogo <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Ajustes de la memoria de traducción<ept i="1000001">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="jtuavXvDM0T40qgwFm02WHi46">
+      <tuv xml:lang="en">
+        <seg>If other users will be working with this translation memory, you can define passwords that enable different levels of user access.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Si otros usuarios van a trabajar con esta memoria de traducción, puede definir contraseñas que permitan diferentes niveles de acceso de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6g4VsTSQ0ke5Gk8gVsxACZ2x1">
+      <tuv xml:lang="en">
+        <seg>To define access levels, edit the translation memory settings.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Para definir los niveles de acceso, modifique la configuración de la memoria de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="TkR991Ym0my8wxigWh2ZqiC21">
+      <tuv xml:lang="en">
+        <seg><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>Create a language resource template<ept i="1000001">&lt;u}</ept></seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Crear una plantilla de recursos de idioma</seg>
+      </tuv>
+    </tu>
+    <tu tuid="wk3nEHoyglB2vn4EtngZAbP9">
+      <tuv xml:lang="en">
+        <seg><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>Display the Translation Memories view<ept i="1000001">&lt;u}</ept></seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Mostrar la vista Memorias de traducción</seg>
+      </tuv>
+    </tu>
+    <tu tuid="YhAAXCKxMW04IZ80iT0mDy464">
+      <tuv xml:lang="en">
+        <seg><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>About fields<ept i="1000001">&lt;u}</ept></seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Acerca de los campos</seg>
+      </tuv>
+    </tu>
+    <tu tuid="C8PfJcKC0gP5i99Mq70K12Ro5">
+      <tuv xml:lang="en">
+        <seg><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>New Translation Memory wizard &gt; Fields and Settings<ept i="1000001">&lt;u}</ept></seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Asistente para Nueva memoria de traducción &gt; Campos y configuración</seg>
+      </tuv>
+    </tu>
+    <tu tuid="kIc7aJcDMmj2m94UxvM1xU6y0">
+      <tuv xml:lang="en">
+        <seg><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>Recognition settings<ept i="1000001">&lt;u}</ept></seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Configuración del reconocimiento</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62oJk97cwdN20s8wIP0O38hv1">
+      <tuv xml:lang="en">
+        <seg><bpt i="1000001" x="1000001" type="formatting">{u&gt;</bpt>Edit existing entries<ept i="1000001">&lt;u}</ept></seg>
+      </tuv>
+      <tuv xml:lang="es" creationdate="20200716T182955Z" changedate="20200716T182955Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1594924195000</prop>
+        <prop type="modified_at">1594924195000</prop>
+        <prop type="filename">How to create a local translation memory.docx</prop>
+        <seg>Editar entradas existentes</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
